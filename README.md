@@ -1,1 +1,4 @@
-# This is a new test
+# One Month Rails
+
+This is my first programming project.
+By Walter Kim 
